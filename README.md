@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sahid321
 - 👀 I’m interested in html, css, bootstrap, javascript, php, mysql & sql .
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web gedigning project.
 - 📫 How to reach me https://github.com/sahid321/open.git
 
 <!---
